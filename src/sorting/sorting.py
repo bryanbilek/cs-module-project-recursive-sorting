@@ -3,8 +3,6 @@ def merge(arrA, arrB):
     elements = len(arrA) + len(arrB)
     merged_arr = [0] * elements
 
-    # Your code here
-
     return merged_arr
 
 # TO-DO: implement the Merge Sort function below recursively
